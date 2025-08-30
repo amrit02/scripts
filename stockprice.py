@@ -1,3 +1,7 @@
+#Author: Amrit Thakur
+#Email: info@mail.spu.com.np
+#Purpose: Script that check LTP stock price againest given target price and if price is low or equals, send it over mail
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib
