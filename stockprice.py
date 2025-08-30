@@ -21,7 +21,7 @@ base_url = "https://www.sharesansar.com/company/"
 smtp_server = "live.smtp.mailtrap.io"
 smtp_port = 587
 smtp_username = "api"
-smtp_password = "610b4cc5382d2a6fb94e3710b57ba048"  # Replace with your Mailtrap API token
+smtp_password = "****************************************"  # Replace with your Mailtrap API token
 
 # Email addresses
 sender = "Share Price <no-reply@netronicstech.com.np>"
